@@ -1,14 +1,12 @@
 {
-    "TOKEN": "ODg4MDE2MzA4OTE3MTI1MTUw.YUMjog.hmc8VljfughqrHAW4JO7rhFRLXQ",
+    "TOKEN": "che",
     "PREFIX": "-",
     "guildId": "888021375938338847",
-    "rulesChannelId": "888021542653530144",
-    "welcomeChannelId": "888024788327624755",
-    "roleCtferId": "888025608054009896",
-    "notiChannelId": "888038843171893268",
-    "roleBtcId": "888036055520010311",
-    "roleAuthorId": "888025269506551839",
+    "rulesChannelId": "963264996085727236",
+    "welcomeChannelId": "963264996085727234",
+    "roleCtferId": "963327055334895628",
+    "notiChannelId": "963264996085727235",
+    "roleBtcId": "963327248650367087",
+    "roleAuthorId": "963326645505228831",
     "ctf": "https://ctf.infosecptit.club",
-    "user": "ispclub",
-    "pass": "bMgGb:iSYtwN9V_"
 }
